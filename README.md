@@ -36,9 +36,9 @@ Enter your goal: Finish MotionCut project
 ## 📸 Screenshot
 Here’s a screenshot of the console output demo:  
 
-![Console Output](screenshot 1.png)  
+![Console Output](Screenshot 1.png)(Screenshot 2.png)
 
-*(Replace `screenshot.png` with the actual filename of your screenshot image)*  
+
 
 ---
 
